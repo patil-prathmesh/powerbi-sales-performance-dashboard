@@ -27,3 +27,14 @@ The project uses a structured sales dataset similar to AdventureWorks for analyt
 
 ## Outcome
 The dashboard helps in understanding sales patterns, identifying high-performing products, and tracking business performance over time.
+
+## Dashboard Preview
+
+Below are sample views from the Power BI dashboard:
+
+- Overview & KPI summary
+- Sales and revenue trends
+- Product and category analysis
+- Geographic performance
+- Mobile-optimized dashboard view
+
