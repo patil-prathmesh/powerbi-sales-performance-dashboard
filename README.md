@@ -38,3 +38,6 @@ Below are sample views from the Power BI dashboard:
 - Geographic performance
 - Mobile-optimized dashboard view
 
+Screenshots included in this repository demonstrate different analytical views created in Power BI.
+
+
